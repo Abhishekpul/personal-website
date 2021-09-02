@@ -1,0 +1,109 @@
+body{
+    margin:0%;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.half-width{
+    width: 40%;
+    padding-left: 4%;
+    margin-left: 5%;
+    float: left;
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+}
+*p{
+    color:dimgrey;
+}
+.colour-effect{
+    color: rgb(223, 11, 82);
+}
+section{
+    height: 400px;
+    padding: 20px;
+    padding-bottom: 20%;
+}
+.top-banner{
+    background: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+    
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(223, 11, 82);
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    color:white;
+}
+.txt{
+    padding-top: 30%;
+}
+#mid-banner{
+    background: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.midalign{
+    text-align: center;
+}
+#seize{
+    font-size: 50px;
+}
+
+
+.picture{
+    width: 25%;
+    float: left;
+    padding: 8px;
+    margin-left: 70px;
+}
+.latest-work{
+    background-image: url("personal-website/latest-work-bg.png");
+    height: 100%;
+    width: 100%;
+    
+   
+}
+.bgc{
+    padding-top: 10%;
+    background-image: url("personal-website/footer-bg.png");
+    
+}
+#ab{
+    font-size: 40px;
+    padding-bottom: 30px;
+}
+.cd{
+    font-size: 30px;
+    padding-bottom: 60px;
+}
+#no{
+    padding-top: 70px;
+
+}
+.buton{
+    background-color: rgb(223, 11, 82);
+    padding: 20px 20px;
+    margin: 150px 150px 150px 150px;
+    border-radius: 20px;
+    font-weight: 700;
+    color:white;
+}
+fotter p{
+    text-align: center;
+    font-size: 10px;
+    padding-top: 20px;
+    
+}
+
+
+
+
+    
+
+
+
